@@ -1,0 +1,7 @@
+nombre_proyecto = "Insurence"
+
+lenguaje_programacion = "Python"
+
+descripcion_proyecto = "Este es el proyecto " + nombre_proyecto + " hecho con lenguaje " + lenguaje_programacion
+
+print(descripcion_proyecto)
